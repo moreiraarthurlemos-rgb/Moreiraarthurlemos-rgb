@@ -19,7 +19,7 @@
 
 - 🧮 [Calculadora em Python](https://github.com/moreiraarthurlemos-rgb/calculadora.py) — calculadora simples com as 4 operações básicas
 - 🔢 [Identificador de Idades](https://github.com/moreiraarthurlemos-rgb/L-gica-de-Programa-o-Python) — sistema de verificação de idades
-
+- 🤖 [Bot de Vendas para Discord](https://github.com/moreiraarthurlemos-rgb/bot-discord-streaming) — bot completo com catálogo, carrinho de compras e checkout automático via Pix (Mercado Pago)
 ---
 
 ## 📫 Contato
