@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Arthur
 
-💻 Estudante de Técnico em Informática (3º semestre)  
+💻 Estudante de Técnico em Informática (4° semestre)  
 🚀 Focado em aprender programação e crescer na área de tecnologia  
 🤖 Interessado em automação, bots e Python  
 🎯 Buscando minha primeira oportunidade como estagiário  
